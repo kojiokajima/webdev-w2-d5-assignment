@@ -280,7 +280,13 @@ Hero
 .hero-copy {
   color: white;
 }
-
+.hero-btn p {
+  margin-top: 60px;
+  font-size: 1.5rem;
+  color: var(--clr-primary-7);
+  padding: 15px 20px;
+  background-color: white;
+}
 
 
 /*

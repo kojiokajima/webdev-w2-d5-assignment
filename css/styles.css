@@ -394,12 +394,15 @@ Featured Tours
   width: 100%;
 }
 
+.features-text-part {
+  padding: 0 20px;
+}
 .features-info,
 .features-info p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 10px;
+  /* padding: 0 10px; */
   color: var(--clr-primary-5);
 }
 .features-info i span {
